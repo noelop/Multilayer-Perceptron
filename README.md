@@ -2,6 +2,7 @@
 
 來自mit_neol:
 https://hackmd.io/lnu1A1GXRaWeat_2kFHsFA?view
+
 這個專案創建了擁有簡易功能的Multilayer Perceptrons，當變數nn被指派為類別NeuralNetMLP時，此時nn即可以簡易的方式建構出MLP網路架構。
 ![](https://i.imgur.com/RV80S54.png)
 nn有兩個參數可調整，epochs次數、learning rate數alpha。
